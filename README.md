@@ -21,7 +21,7 @@
 - We managed to successfully split the workload via branching so that code wasn't overwritten
 - We kept to our schedule
 
-## What I would like to add/imrpove
+## What I would like to add/improve
 - The ability to change the search parameters e.g. search by category (vegetarian/seafood etc), by ingredient, by country etc
 - We currently have 3 versions of the mealmodal/mealcard/mealcontainer as we are pulling data from a few places.  We found it was faster to copy and alter the components but I would like to rewrite the base component to be able to take data from those places.
 
